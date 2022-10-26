@@ -17,13 +17,13 @@ Dan menggunakan kunci "TEKNIK INFORMATIKA"
 
 Jawab: 
 
-Untuk dapat menghasilkan hasil outputnya, silahkan masukan kata kuncinya terlebih dahulu pada kolom 'Enter key'.
+Untuk dapat menghasilkan hasil outputnya, silahkan masukan kata kuncinya terlebih dahulu pada kolom 'Enter key'. Karena ditugas ini sudah diberikan kunci berupa 'TEKNIK INFORMATIKA' , maka disini saya memasukan kalimat tersebut pada bagian key.
 
-Kemudian pilihlah menu Encryption pada menu pertama, dan input'lah angka 1 disamping EXIT untuk dapat melanjutkannya.
+Kemudian pilihlah menu yang dibutuhkan. Jika Encryption maka input'lah angka 1 disamping EXIT untuk dapat melanjutkannya, sedangkan untuk Decryption maka input'lah angka 2 disamping EXIT untuk dapat melanjutkannya.
 
 Setelahnya silahkan masukan message atau pesan yang ingin dirubah. Jika sudah tekan Enter, maka munculah cipher text hasil dari encryption pesan tadi.
 
-Berikut hasil dari Encryption yang sudah saya lakukan.
+Berikut hasil dari Encryption dan Decryption yang sudah saya lakukan.
 
 ![menambahkan_gambar](img/1.png)
     

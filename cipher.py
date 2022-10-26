@@ -2,7 +2,7 @@
 #CODERATRI-ATRISAXENA2@GMAIL.COM
 #See this example: https://www.javatpoint.com/playfair-cipher-program-in-java
 
-key=input("Enter key")
+key=input("\n Enter key")
 key=key.replace(" ", "")
 key=key.upper()
 def matrix(x,y,initial):
@@ -44,7 +44,7 @@ def locindex(c): #get location of each character
                 return loc
             
 def encrypt():  #Encryption
-    msg=str(input("ENTER MSG:"))
+    msg=str(input("\n ENTER MESSAGE:"))
     msg=msg.upper()
     msg=msg.replace(" ", "")             
     i=0
@@ -54,7 +54,7 @@ def encrypt():  #Encryption
                 msg=msg[:s+1]+'X'+msg[s+1:]
     if len(msg)%2!=0:
         msg=msg[:]+'X'
-    print("CIPHER TEXT:",end=' ')
+    print("\n CIPHER TEXT:",end=' ')
     while i<len(msg):
         loc=list()
         loc=locindex(msg[i])
@@ -69,10 +69,10 @@ def encrypt():  #Encryption
         i=i+2        
                  
 def decrypt():  #decryption
-    msg=str(input("ENTER CIPHER TEXT:"))
+    msg=str(input("\n ENTER CIPHER TEXT:"))
     msg=msg.upper()
     msg=msg.replace(" ", "")
-    print("PLAIN TEXT:",end=' ')
+    print("\n PLAIN TEXT:",end=' ')
     i=0
     while i<len(msg):
         loc=list()
@@ -88,7 +88,7 @@ def decrypt():  #decryption
         i=i+2        
 
 while(1):
-    choice=int(input("\n 1.Encryption \n 2.Decryption: \n 3.EXIT"))
+    choice=int(input("\n 1. Encryption \n 2. Decryption \n 3. EXIT :"))
     if choice==1:
         encrypt()
     elif choice==2:
