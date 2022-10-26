@@ -21,7 +21,7 @@ Untuk dapat menghasilkan hasil outputnya, silahkan masukan kata kuncinya terlebi
 
 Kemudian pilihlah menu yang dibutuhkan. Jika Encryption maka input'lah angka 1 disamping EXIT untuk dapat melanjutkannya, sedangkan untuk Decryption maka input'lah angka 2 disamping EXIT untuk dapat melanjutkannya.
 
-Setelahnya silahkan masukan message atau pesan yang ingin dirubah. Jika sudah tekan Enter, maka munculah cipher text hasil dari encryption pesan tadi.
+Setelahnya silahkan masukan message atau pesan yang ingin dirubah. Jika sudah tekan Enter, maka munculah cipher text hasil dari encryption dan plain text hasil dari Decryption pesan tadi.
 
 Berikut hasil dari Encryption dan Decryption yang sudah saya lakukan.
 
