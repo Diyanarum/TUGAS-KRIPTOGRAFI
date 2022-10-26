@@ -16,6 +16,7 @@ _____________________________________________________________________
 Dan menggunakan kunci "TEKNIK INFORMATIKA"
 
 Jawab: 
+
 ![menambahkan_gambar](img/1.png)
     
 
