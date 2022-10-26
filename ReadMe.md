@@ -17,6 +17,14 @@ Dan menggunakan kunci "TEKNIK INFORMATIKA"
 
 Jawab: 
 
+Untuk dapat menghasilkan hasil outputnya, silahkan masukan kata kuncinya terlebih dahulu pada kolom 'Enter key'.
+
+Kemudian pilihlah menu Encryption pada menu pertama, dan input'lah angka 1 disamping EXIT untuk dapat melanjutkannya.
+
+Setelahnya silahkan masukan message atau pesan yang ingin dirubah. Jika sudah tekan Enter, maka munculah cipher text hasil dari encryption pesan tadi.
+
+Berikut hasil dari Encryption yang sudah saya lakukan.
+
 ![menambahkan_gambar](img/1.png)
     
 
